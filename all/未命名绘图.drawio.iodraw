@@ -102,7 +102,7 @@
           <mxGeometry x="250" y="575" width="250" height="155" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;距离量算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="600" width="80" height="20" as="geometry" />
+          <mxGeometry x="300" y="600" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图层管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="80" height="20" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="300" y="640" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;缺陷定位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="640" width="80" height="20" as="geometry" />
+          <mxGeometry x="400" y="640" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="530" y="572.5" width="160" height="155" as="geometry" />
@@ -129,10 +129,10 @@
           <mxGeometry x="585" y="690" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;空间坐标查询&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="297" y="677.5" width="86" height="20" as="geometry" />
+          <mxGeometry x="297" y="677.5" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;添加缺陷信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="677.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="400" y="677.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;空间分析&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="475" width="27.5" height="20" as="geometry" />
