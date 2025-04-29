@@ -117,16 +117,16 @@
           <mxGeometry x="530" y="572.5" width="160" height="155" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物联传感&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="600" width="80" height="20" as="geometry" />
+          <mxGeometry x="585" y="600" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后台管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="630" width="80" height="20" as="geometry" />
+          <mxGeometry x="585" y="630" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;工程管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="660" width="80" height="17.5" as="geometry" />
+          <mxGeometry x="585" y="660" width="95" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;缺陷检测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="690" width="80" height="20" as="geometry" />
+          <mxGeometry x="585" y="690" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;空间坐标查询&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="297" y="677.5" width="93" height="20" as="geometry" />
