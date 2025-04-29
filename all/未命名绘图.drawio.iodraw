@@ -101,10 +101,10 @@
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="250" y="575" width="250" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="9gVpLuD_ENr8T2v5-nhK-18" value="距离量算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9gVpLuD_ENr8T2v5-nhK-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;距离量算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="600" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9gVpLuD_ENr8T2v5-nhK-19" value="图层管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9gVpLuD_ENr8T2v5-nhK-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图层管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-20" value="塔杆信息展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
