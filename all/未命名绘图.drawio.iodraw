@@ -28,7 +28,7 @@
         <mxCell id="aOdDYN2x77VjK_YjP0Yw-7" value="表现层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aOdDYN2x77VjK_YjP0Yw-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;Mars3D&amp;nbsp; &amp;nbsp;SDK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aOdDYN2x77VjK_YjP0Yw-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mars3D&amp;nbsp; &amp;nbsp;SDK&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="270" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aOdDYN2x77VjK_YjP0Yw-10" value="Cesium" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
