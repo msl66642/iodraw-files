@@ -177,7 +177,7 @@
           <mxGeometry x="225" y="970" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-43" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1020" width="60" height="60" as="geometry" />
+          <mxGeometry x="150" y="970" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9gVpLuD_ENr8T2v5-nhK-45" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="985" width="400" height="30" as="geometry" />
