@@ -1,212 +1,141 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="2">
-  <diagram name="Page-1" id="NN_RmDfSuylYt5lzmQ23">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="NN_RmDfSuylYt5lzmQ23">
     <mxGraphModel dx="1042" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="470" height="60" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="70" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-2" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="60" height="60" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-62" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;输电线路智能巡检平台&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="280" width="25" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-3" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="157.5" width="420" height="25" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-63" value="可视化大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460.05999999999995" y="201.20000000000005" as="sourcePoint" />
-            <mxPoint x="459.5" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-5" value="&lt;div style=&quot;text-align: justify; padding-right: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="470" height="120" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-65" value="巡检设备总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="430" height="80" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-66" value="用户总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-7" value="表现层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="60" height="120" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-67" value="设备提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;Mars3D&amp;nbsp; &amp;nbsp;SDK&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="120" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-68" value="报警排名（TOP8）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-9" value="cesium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="120" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-69" value="报警次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-10" value="VUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="120" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-70" value="巡检设备分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-11" value="VUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="120" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-71" value="电网巡检计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-12" value="EChart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="300" width="120" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-72" value="数据统计图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-13" value="ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="300" width="110" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-73" value="空间分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-14" value="YOLOV5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="270" width="110" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-15" value="Web展示" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="10" height="60" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-75" value="剖面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459.5" y="360" as="sourcePoint" />
-            <mxPoint x="459.5" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="459.5" y="410" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-76" value="淹没分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="410" width="470" height="360" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-77" value="断面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-18" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="410" width="60" height="360" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-78" value="通视分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="250" height="130" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-79" value="可视域分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-20" value="可视域分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-80" value="电磁辐射分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-21" value="剖面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-81" value="坡度坡向分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-22" value="通视分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="475" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-82" value="三维量测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-23" value="淹没分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="475" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-83" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-24" value="电磁辐射分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="510" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-25" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="510" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-85" value="塔杆管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="160" height="130" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-86" value="巡检回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-27" value="巡检漫游" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="440" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-87" value="线路管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-28" value="缺陷记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="475" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-88" value="消缺任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-29" value="缺陷上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="510" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-89" value="缺陷管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="575" width="250" height="155" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-90" value="消缺回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-31" value="距离量算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="600" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-91" value="巡检任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-32" value="图层管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="600" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-92" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-33" value="塔杆信息展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="640" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-93" value="智慧巡检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-34" value="缺陷定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="640" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="530" y="585" width="160" height="145" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-95" value="巡检漫游" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-36" value="物联传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="600" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-96" value="缺陷上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-37" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="630" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-97" value="缺陷记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="570" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-38" value="工程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="660" width="80" height="17.5" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-98" value="缺陷类型标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-39" value="缺陷检测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="690" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-99" value="巡检报告导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="610" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-40" value="空间坐标查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="677.5" width="86" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-100" value="AI赋能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="677.5" width="80" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="680" width="486" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-42" value="空间分析" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="475" width="27.5" height="20" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-102" value="智慧物联传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="695" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-43" value="智慧巡检" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="470" width="30" height="30" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-103" value="DeepSeek辅助决策支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="695" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-44" value="地图操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="635" width="30" height="30" as="geometry" />
+        <mxCell id="NLNVLxUNQexpA8FuvZk2-104" value="基于YOLOv5的缺陷检测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="740" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-45" value="智慧管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="635" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="830" width="470" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.485;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="461" y="773" as="sourcePoint" />
-            <mxPoint x="460.78000000000003" y="830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-48" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="830" width="60" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="240" y="865.5" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-50" value="Spring boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="885.5" width="80" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-51" value="JPA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383" y="886" width="80" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="495" y="865" width="195" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1035" width="470" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-54" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1035" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-55" value="MySql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="1050" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.475;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.473;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459.49999999999994" y="962.8600000000001" as="sourcePoint" />
-            <mxPoint x="460.44" y="1037.22" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-57" value="网络服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="882.5" width="26.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-58" value="天地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="883" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-59" value="Bingmap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="883" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="NLNVLxUNQexpA8FuvZk2-60" value="地图服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="880.5" width="30" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="第 2 页" id="-C3XDn-BxlFHrIvhz9k5">
-    <mxGraphModel dx="1036" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
