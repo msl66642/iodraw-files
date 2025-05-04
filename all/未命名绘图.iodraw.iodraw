@@ -76,28 +76,28 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-146" value="塔杆管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-146" value="塔杆管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-147" value="巡检回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-147" value="巡检回执管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-148" value="线路管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-148" value="线路管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-149" value="消缺任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-149" value="消缺任务管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-150" value="缺陷管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="550" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-151" value="消缺回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-151" value="消缺回执管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-152" value="巡检任务管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-153" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-153" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-154" value="智慧巡检" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
