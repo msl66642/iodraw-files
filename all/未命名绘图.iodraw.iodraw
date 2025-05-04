@@ -16,7 +16,7 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="486" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-126" value="巡检设备总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-126" value="巡检设备总览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-127" value="用户总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
