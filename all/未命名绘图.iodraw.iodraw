@@ -19,10 +19,10 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-126" value="巡检设备总览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-127" value="用户总览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-127" value="用户总览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-128" value="设备提醒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-128" value="设备提醒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-129" value="报警排名（TOP8）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
