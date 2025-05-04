@@ -4,6 +4,138 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="70" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-123" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;输电线路智能巡检平台&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="280" width="25" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-124" value="可视化大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="486" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-126" value="巡检设备总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-127" value="用户总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-128" value="设备提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-129" value="报警排名（TOP8）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-130" value="报警次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-131" value="巡检设备分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-132" value="电网巡检计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-133" value="数据统计图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-134" value="空间分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="486" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-136" value="剖面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-137" value="淹没分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-138" value="断面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-139" value="通视分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-140" value="可视域分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-141" value="电磁辐射分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-142" value="坡度坡向分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-143" value="三维量测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-144" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="486" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-146" value="塔杆管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-147" value="巡检回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-148" value="线路管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-149" value="消缺任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-150" value="缺陷管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-151" value="消缺回执管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-152" value="巡检任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-153" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-154" value="智慧巡检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="486" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-156" value="巡检漫游" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-157" value="缺陷上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-158" value="缺陷记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-159" value="缺陷类型标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-160" value="巡检报告导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="610" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-161" value="AI赋能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="680" width="486" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-163" value="智慧物联传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="695" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-164" value="DeepSeek辅助决策支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="695" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-165" value="基于YOLOv5的缺陷检测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="740" width="460" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
