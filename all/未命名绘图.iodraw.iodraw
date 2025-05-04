@@ -70,7 +70,7 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-143" value="三维量测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-144" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-144" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="440" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-153" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-154" value="智慧巡检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-154" value="智慧巡检" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="560" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -121,7 +121,7 @@
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-160" value="巡检报告导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="610" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-161" value="AI赋能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-161" value="AI赋能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DTuR0Dqh5y4IWe6H4Xd7-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
